@@ -1,2 +1,20 @@
-# Weather-App
-🌦️ Weather App: A Kotlin-based Android application providing real-time weather updates and forecasts with a clean and intuitive user interface. Built using Jetpack Compose, Retrofit, and Google Location Services for seamless performance. Stay updated with accurate weather data anytime, anywhere!
+# Weather App 🌤️
+
+A user-friendly weather application built with Kotlin that provides real-time weather updates and forecasts based on the user's location.
+
+## Features
+
+- 🌍 **Real-time Weather Updates**: Automatically fetch weather based on the user's current location.
+- 🗓️ **Daily Forecast**: Provides weather forecasts for upcoming days.
+- 📍 **Location-based Weather**: Uses device location to deliver accurate weather data.
+- 📊 **Clean UI**: Simple and intuitive user interface.
+- 🔔 **Scheduled Weather Notifications**: Receive weather updates at regular intervals using WorkManager.
+
+## Technologies Used
+
+- **Kotlin** for app development
+- **Jetpack Compose** for UI
+- **Hilt** for dependency injection
+- **Retrofit** for API calls
+- **Google Location Services API** for location tracking
+- **WorkManager** for scheduling background tasks
