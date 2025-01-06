@@ -5,7 +5,6 @@ A user-friendly weather application built with Kotlin that provides real-time we
 ## Features
 
 - 🌍 **Real-time Weather Updates**: Automatically fetch weather based on the user's current location.
-- 🗓️ **Daily Forecast**: Provides weather forecasts for upcoming days.
 - 📍 **Location-based Weather**: Uses device location to deliver accurate weather data.
 - 📊 **Clean UI**: Simple and intuitive user interface.
 - 🔔 **Scheduled Weather Notifications**: Receive weather updates at regular intervals using WorkManager.
